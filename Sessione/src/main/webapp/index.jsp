@@ -12,7 +12,7 @@
             
           booo  Email : <input type="text" name="email">
  
-                    <input type="submit" value="Click"><br/>  
+            ciao        <input type="submit" value="Click"><br/>  
    
     </form>  
 </body>  
